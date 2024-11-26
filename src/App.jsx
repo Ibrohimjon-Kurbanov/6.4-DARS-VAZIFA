@@ -141,7 +141,7 @@ function App() {
               </div>
               <div className="socials">
                 <button onClick={openModal} type="button">
-                  <img src={telegram} alt="" />
+                  <img src={telegram} alt="socials image" />
                 </button>
               </div>
               <div className="select">
